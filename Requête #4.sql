@@ -1,0 +1,1 @@
+SELECT recipe_name,id_recipe FROM recipe WHERE recipe_name LIKE 'Salade%' 

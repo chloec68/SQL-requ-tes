@@ -1,0 +1,1 @@
+INSERT INTO chloe_recipe.recipe(recipe_name,preparation_time,instructions,id_category) VALUES ('Pâtes à la carbonara','20','abcdefghijklmnopqrstuvwxyz',2)

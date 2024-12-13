@@ -1,0 +1,1 @@
+UPDATE recipe SET recipe_name = "ABCDEFGHIJKLMNOPQRSTUVWXYZ" WHERE id_recipe = 16
