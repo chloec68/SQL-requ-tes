@@ -1,6 +1,4 @@
-SELECT MIN(RECIPE.prepTime) FROM RECIPE
-
-//
+Afficher la / les recette(s) les plus rapides à préparer
 
 SELECT RECIPE.recipe_name, RECIPE.prepTime
 FROM RECIPE
